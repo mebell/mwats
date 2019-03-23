@@ -1,4 +1,4 @@
-## Latest pipeline is in the SQL folder
+## The latest data pipeline is in the SQL folder
 
 Adel's TODO
 
