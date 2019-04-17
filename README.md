@@ -8,5 +8,5 @@ Adel's TODO
 - [x] extract state space models output coefficients from statsmodels object
 - [x] visualise source stats results using nonlinear embedding and hierachical clustering (proof of concept)
 - [x] perform fast nearest neighbour computation using nmslib
-- [ ] pull pulsar info from online database
+- [x] pull source candidate (esp. pulsar) info from online database
 
